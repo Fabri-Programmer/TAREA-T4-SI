@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FABRI LLARA\\source\\repos\\EXAMEN-14-11-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3EE0C3-5A16-450F-848E-A96FD934A4D7}|EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj|c:\\users\\fabri llara\\source\\repos\\examen-14-11-2024\\examen-14-11-2024\\examen-14-11-2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A3EE0C3-5A16-450F-848E-A96FD934A4D7}|EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj|solutionrelative:examen-14-11-2024\\examen-14-11-2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3EE0C3-5A16-450F-848E-A96FD934A4D7}|EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj|c:\\users\\fabri llara\\source\\repos\\examen-14-11-2024\\examen-14-11-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3EE0C3-5A16-450F-848E-A96FD934A4D7}|EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj|solutionrelative:examen-14-11-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3EE0C3-5A16-450F-848E-A96FD934A4D7}|EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj|c:\\users\\fabri llara\\source\\repos\\examen-14-11-2024\\examen-14-11-2024\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3EE0C3-5A16-450F-848E-A96FD934A4D7}|EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj|solutionrelative:examen-14-11-2024\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3EE0C3-5A16-450F-848E-A96FD934A4D7}|EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj|c:\\users\\fabri llara\\source\\repos\\examen-14-11-2024\\examen-14-11-2024\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3EE0C3-5A16-450F-848E-A96FD934A4D7}|EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj|solutionrelative:examen-14-11-2024\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EXAMEN-14-11-2024",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\source\\repos\\EXAMEN-14-11-2024\\EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj",
+              "RelativeDocumentMoniker": "EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\source\\repos\\EXAMEN-14-11-2024\\EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj",
+              "RelativeToolTip": "EXAMEN-14-11-2024\\EXAMEN-14-11-2024.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T19:00:23.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\source\\repos\\EXAMEN-14-11-2024\\EXAMEN-14-11-2024\\Cita.cs",
+              "RelativeDocumentMoniker": "EXAMEN-14-11-2024\\Cita.cs",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\source\\repos\\EXAMEN-14-11-2024\\EXAMEN-14-11-2024\\Cita.cs",
+              "RelativeToolTip": "EXAMEN-14-11-2024\\Cita.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:00:17.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\source\\repos\\EXAMEN-14-11-2024\\EXAMEN-14-11-2024\\Estudiante.cs",
+              "RelativeDocumentMoniker": "EXAMEN-14-11-2024\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\source\\repos\\EXAMEN-14-11-2024\\EXAMEN-14-11-2024\\Estudiante.cs",
+              "RelativeToolTip": "EXAMEN-14-11-2024\\Estudiante.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:00:05.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\source\\repos\\EXAMEN-14-11-2024\\EXAMEN-14-11-2024\\Program.cs",
+              "RelativeDocumentMoniker": "EXAMEN-14-11-2024\\Program.cs",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\source\\repos\\EXAMEN-14-11-2024\\EXAMEN-14-11-2024\\Program.cs",
+              "RelativeToolTip": "EXAMEN-14-11-2024\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:59:08.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

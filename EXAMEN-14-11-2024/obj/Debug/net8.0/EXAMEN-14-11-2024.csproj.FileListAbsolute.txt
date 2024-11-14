@@ -1,0 +1,14 @@
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\bin\Debug\net8.0\EXAMEN-14-11-2024.exe
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\bin\Debug\net8.0\EXAMEN-14-11-2024.deps.json
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\bin\Debug\net8.0\EXAMEN-14-11-2024.runtimeconfig.json
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\bin\Debug\net8.0\EXAMEN-14-11-2024.dll
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\bin\Debug\net8.0\EXAMEN-14-11-2024.pdb
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\obj\Debug\net8.0\EXAMEN-14-11-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\obj\Debug\net8.0\EXAMEN-14-11-2024.AssemblyInfoInputs.cache
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\obj\Debug\net8.0\EXAMEN-14-11-2024.AssemblyInfo.cs
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\obj\Debug\net8.0\EXAMEN-14-11-2024.csproj.CoreCompileInputs.cache
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\obj\Debug\net8.0\EXAMEN-14-11-2024.dll
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\obj\Debug\net8.0\refint\EXAMEN-14-11-2024.dll
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\obj\Debug\net8.0\EXAMEN-14-11-2024.pdb
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\obj\Debug\net8.0\EXAMEN-14-11-2024.genruntimeconfig.cache
+C:\Users\FABRI LLARA\source\repos\EXAMEN-14-11-2024\EXAMEN-14-11-2024\obj\Debug\net8.0\ref\EXAMEN-14-11-2024.dll
